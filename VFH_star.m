@@ -11,7 +11,7 @@ function [linVel, angVel] = VFH_star(ng, targetAngle)
 % 
 % 
 % Input: 
-%            ng � step depth of how many nodes deep VFH+ should be used to 
+%            ng - step depth of how many nodes deep VFH+ should be used to 
 %                 determine the cost of each candidate path
 %   targetAngle - Angle in degrees that specifies the angle position of the 
 %                 target from the Vehicle Center Point (-135 to 135)
