@@ -44,7 +44,7 @@ function h = sector_density(dmax,sensor_res,sector_res,...
       
     enlargedlidar=dmax*ones(1,1080);
     enlargedlindar(index_distance(:,1))=index_distance(:,2);
-    
+    %gfddgggffgfhhjhf
     a=1; %a can be any variable such that: a-b*dmax=0
     b=a/dmax; % b is determined based on a and dmax
     
